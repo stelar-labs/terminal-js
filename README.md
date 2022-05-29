@@ -1,2 +1,3 @@
-# stelar-terminal
-Interface for the Astreuos Blockchain Node
+# Terminal
+
+Interface for the Astreum Blockchain Node
